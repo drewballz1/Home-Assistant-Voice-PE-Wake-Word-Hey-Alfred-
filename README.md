@@ -65,7 +65,7 @@ yaml
 micro_wake_word:
   id: mww
   models:
-    - model: https://github.com/drewballz1/Home-Assistant-Voice-PE-Wake-Word-Hey-Alfred-/raw/main/hey_alfred.json
+    - model: https://github.com/drewballz1/Home-Assistant-Voice-PE-Wake-Word-Hey-Alfred-/raw/refs/heads/main/hey_alfred.json
       id: hey_alfred
 
 After flashing, select "Hey Alfred" from the wake word dropdown in Settings → Devices & Services → ESPHome on the device's page.
